@@ -22,16 +22,16 @@ CureSure is a sleek and responsive e-commerce web application built for purchasi
 
 ## 📁 Project Structure
 curesure-final/
-│
-├── public/ # Static assets
-├── src/ # Source code
-│ ├── components/ # Reusable components
-│ ├── pages/ # Different pages (Home, Cart, etc.)
-│ └── App.tsx # Main app entry
-├── dist/ # Production build output
-├── package.json # Dependencies and scripts
-├── tailwind.config.js # Tailwind configuration
-└── vite.config.ts # Vite configuration
+
+public/ # Static assets
+src/ # Source code
+├── components/ # Reusable components
+├── pages/ # Different pages (Home, Cart, etc.)
+└── App.tsx # Main app entry
+ dist/ # Production build output
+package.json # Dependencies and scripts
+tailwind.config.js # Tailwind configuration
+vite.config.ts # Vite configuration
 
 
 ---
@@ -58,11 +58,3 @@ git clone https://github.com/your-username/curesure-final.git
 cd curesure-final
 npm install
 npm run dev
-
-
-📌 Contribution
-This is a personal academic project, but contributions and suggestions are welcome. Feel free to fork or star the repo!
-
-👩‍💻 Author
-Lakshya Nigam
-B.Tech CSE (Core), 2nd Year Student
