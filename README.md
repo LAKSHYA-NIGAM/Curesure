@@ -5,7 +5,8 @@ CureSure is a sleek and responsive e-commerce web application built for purchasi
 ---
 
 ## 🚀 Live Project  
-🌐 [CureSure – Live Site](lakshya-curesure.netlify.app)
+👉 [CureSure – Visit Site](https://lakshya-curesure.netlify.app)
+
 
 ---
 
